@@ -1,0 +1,6 @@
+# Added on top of pgBuilder/compose.yaml by the Makefile: mounts this repo
+# in the runtime container, so psql can \copy the puzzle inputs.
+services:
+  runtime:
+    volumes:
+      - ${AOC_DIR:?run through the Makefile}:/aoc

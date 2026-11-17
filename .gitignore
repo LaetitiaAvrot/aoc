@@ -1,0 +1,10 @@
+# Puzzle inputs must not be shared: https://adventofcode.com/about
+*.csv
+*.txt
+
+# Personal settings
+config.mk
+
+# Editors
+.*.swp
+.DS_Store

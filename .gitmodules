@@ -1,0 +1,3 @@
+[submodule "pgBuilder"]
+	path = pgBuilder
+	url = https://github.com/LaetitiaAvrot/pgBuilder.git
